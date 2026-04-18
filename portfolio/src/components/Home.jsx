@@ -79,12 +79,7 @@ const Home = () => {
             </p>
 
             <div className="social-icons">
-              {/* <a href="#" className="social-icon" aria-label="Facebook">
-                <i className="fab fa-facebook-f"></i>
-              </a>
-              <a href="#" className="social-icon" aria-label="WhatsApp">
-                <i className="fab fa-whatsapp"></i>
-              </a> */}
+              
               <a href="https://www.linkedin.com/in/karampreet-kaur-puhi-b94755314" className="social-icon" aria-label="LinkedIn">
                 <i className="fab fa-linkedin-in"></i>
               </a>

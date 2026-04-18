@@ -28,8 +28,7 @@ const About = () => {
             designing and developing modern web interfaces. 
           </p>
           <p className="about-text">
-            I am passionate
-            about continuously learning new technologies and staying aligned
+            I am passionate about continuously learning new technologies and staying aligned
             with the latest trends in web development. Along with frontend
             development, I have also learned SQL to enhance my understanding of
             data handling and backend integration. My goal is to grow as a

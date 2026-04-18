@@ -33,7 +33,7 @@ const Navbar = ({ activeSection }) => {
     <nav className={`navbar ${isScrolled ? 'scrolled' : ''}`}>
       <div className="navbar-container">
         <div className="logo">
-          <span>Kaur.Dev</span>
+          <span>Kaur.Dvlpr</span>
         </div>
 
         <ul className={`nav-menu ${isMobileMenuOpen ? 'active' : ''}`}>
