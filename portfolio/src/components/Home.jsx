@@ -68,14 +68,7 @@ const Home = () => {
               <span className="cursor">|</span>
             </h2>
             <p className="description">
-              I am a Frontend Developer focused on building modern, responsive,
-              and user-centric web applications using React, JavaScript, and
-              CSS. I enjoy transforming ideas into clean and functional digital
-              experiences with efficient and maintainable code. Currently, I am
-              exploring backend development and have a basic understanding of
-              SQL for database management, aiming to strengthen my foundation
-              and grow into a full-stack developer. I am driven by continuous
-              learning and a passion for creating impactful web solutions.
+              Frontend Developer focused on building clean, Scalable and responsive web applications with modern technologies, while expanding towards full-stack development.
             </p>
 
             <div className="social-icons">
